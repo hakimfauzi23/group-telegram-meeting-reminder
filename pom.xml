@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.hakimfauzi</groupId>
 	<artifactId>group-reminder-bot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>group-reminder-bot</name>
 	<description>Bot For reminder in Telegram Group</description>
 	<properties>
