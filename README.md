@@ -4,6 +4,7 @@ This application enables the creation and management of group meeting notificati
 <p align="center">
   <img src="./flow.png" alt="App Flow" />
 </p>
+
 ## Features
 
 - Effortless creation of group meeting notifications on Telegram
