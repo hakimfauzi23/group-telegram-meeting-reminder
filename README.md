@@ -1,7 +1,9 @@
 # Group Meeting Notification Application for Telegram using Java Spring Boot
 
-This application enables the creation and management of group meeting notifications on Telegram through a Telegram Bot. It employs a producer and consumer style and incorporates REST endpoints for convenient CRUD operations. The application is built with Java Spring Boot and utilizes a scheduler for sending reminders in the morning and before the start of the meeting. The meeting information can be managed solely via the provided REST API, and the Telegram Bot functions solely as a consumer for notifications without receiving any input.
-![Image description](./flow.png "App Flow")
+This application enables the creation and management of group meeting notifications on Telegram through a Telegram Bot. It employs a producer and consumer-style and incorporates REST endpoints for convenient CRUD operations. The application is built with Java Spring Boot and utilizes a scheduler for sending reminders in the morning and before the start of the meeting. The meeting information can be managed solely via the provided REST API, and the Telegram Bot functions solely as a consumer for notifications without receiving any input.
+<p align="center">
+  <img src="./flow.png" alt="App Flow" />
+</p>
 ## Features
 
 - Effortless creation of group meeting notifications on Telegram
